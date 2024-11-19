@@ -1,0 +1,11 @@
+/home/ubuntu22/lab1_ws/src/lab1_pkg/build/lab1_pkg/CMakeFiles/uninstall.dir
+/home/ubuntu22/lab1_ws/src/lab1_pkg/build/lab1_pkg/CMakeFiles/lab1_pkg_uninstall.dir
+/home/ubuntu22/lab1_ws/src/lab1_pkg/build/lab1_pkg/CMakeFiles/talker.dir
+/home/ubuntu22/lab1_ws/src/lab1_pkg/build/lab1_pkg/CMakeFiles/listener.dir
+/home/ubuntu22/lab1_ws/src/lab1_pkg/build/lab1_pkg/CMakeFiles/test.dir
+/home/ubuntu22/lab1_ws/src/lab1_pkg/build/lab1_pkg/CMakeFiles/edit_cache.dir
+/home/ubuntu22/lab1_ws/src/lab1_pkg/build/lab1_pkg/CMakeFiles/rebuild_cache.dir
+/home/ubuntu22/lab1_ws/src/lab1_pkg/build/lab1_pkg/CMakeFiles/list_install_components.dir
+/home/ubuntu22/lab1_ws/src/lab1_pkg/build/lab1_pkg/CMakeFiles/install.dir
+/home/ubuntu22/lab1_ws/src/lab1_pkg/build/lab1_pkg/CMakeFiles/install/local.dir
+/home/ubuntu22/lab1_ws/src/lab1_pkg/build/lab1_pkg/CMakeFiles/install/strip.dir

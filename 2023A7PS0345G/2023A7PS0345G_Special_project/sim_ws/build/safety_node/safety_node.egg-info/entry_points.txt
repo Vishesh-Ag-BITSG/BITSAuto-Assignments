@@ -1,0 +1,3 @@
+[console_scripts]
+aeb_node = safety_node.aeb_node:main
+
