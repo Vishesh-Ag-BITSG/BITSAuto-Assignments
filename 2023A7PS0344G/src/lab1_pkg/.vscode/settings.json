@@ -1,0 +1,16 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/skandha/f1tenth_ws/lab1_ws/install/lab1_pkg/local/lib/python3.10/dist-packages",
+        "/home/skandha/f1_tenth/lab1_ws/build/test_pkg_py",
+        "/home/skandha/f1_tenth/lab1_ws/install/test_pkg_py/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/skandha/f1tenth_ws/lab1_ws/install/lab1_pkg/local/lib/python3.10/dist-packages",
+        "/home/skandha/f1_tenth/lab1_ws/build/test_pkg_py",
+        "/home/skandha/f1_tenth/lab1_ws/install/test_pkg_py/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

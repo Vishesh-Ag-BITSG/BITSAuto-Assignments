@@ -1,0 +1,5 @@
+[console_scripts]
+relay = lab1_pkg.relay:main
+safety_node = lab1_pkg.safety_node:main
+talker = lab1_pkg.talker:main
+

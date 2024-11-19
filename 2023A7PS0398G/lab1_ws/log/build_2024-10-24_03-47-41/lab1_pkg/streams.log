@@ -1,0 +1,45 @@
+[1.339s] Invoking command in '/home/pujit/lab1_ws/src/lab1_pkg': PYTHONPATH=/home/pujit/lab1_ws/build/lab1_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pujit/lab1_ws/install/lab1_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/lab1_pkg build --build-base /home/pujit/lab1_ws/build/lab1_pkg/build install --record /home/pujit/lab1_ws/build/lab1_pkg/install.log --single-version-externally-managed install_data
+[1.879s] running egg_info
+[1.880s] creating ../../build/lab1_pkg/lab1_pkg.egg-info
+[1.880s] writing ../../build/lab1_pkg/lab1_pkg.egg-info/PKG-INFO
+[1.881s] writing dependency_links to ../../build/lab1_pkg/lab1_pkg.egg-info/dependency_links.txt
+[1.882s] writing entry points to ../../build/lab1_pkg/lab1_pkg.egg-info/entry_points.txt
+[1.882s] writing requirements to ../../build/lab1_pkg/lab1_pkg.egg-info/requires.txt
+[1.882s] writing top-level names to ../../build/lab1_pkg/lab1_pkg.egg-info/top_level.txt
+[1.882s] writing manifest file '../../build/lab1_pkg/lab1_pkg.egg-info/SOURCES.txt'
+[1.886s] reading manifest file '../../build/lab1_pkg/lab1_pkg.egg-info/SOURCES.txt'
+[1.887s] writing manifest file '../../build/lab1_pkg/lab1_pkg.egg-info/SOURCES.txt'
+[1.887s] running build
+[1.888s] running build_py
+[1.888s] creating /home/pujit/lab1_ws/build/lab1_pkg/build
+[1.888s] creating /home/pujit/lab1_ws/build/lab1_pkg/build/lib
+[1.888s] creating /home/pujit/lab1_ws/build/lab1_pkg/build/lib/lab1_pkg
+[1.888s] copying lab1_pkg/relay.py -> /home/pujit/lab1_ws/build/lab1_pkg/build/lib/lab1_pkg
+[1.889s] copying lab1_pkg/__init__.py -> /home/pujit/lab1_ws/build/lab1_pkg/build/lib/lab1_pkg
+[1.889s] copying lab1_pkg/talker.py -> /home/pujit/lab1_ws/build/lab1_pkg/build/lib/lab1_pkg
+[1.889s] copying lab1_pkg/safety_node.py -> /home/pujit/lab1_ws/build/lab1_pkg/build/lib/lab1_pkg
+[1.889s] running install
+[1.890s] running install_lib
+[1.892s] creating /home/pujit/lab1_ws/install/lab1_pkg/lib/python3.10/site-packages/lab1_pkg
+[1.892s] copying /home/pujit/lab1_ws/build/lab1_pkg/build/lib/lab1_pkg/relay.py -> /home/pujit/lab1_ws/install/lab1_pkg/lib/python3.10/site-packages/lab1_pkg
+[1.893s] copying /home/pujit/lab1_ws/build/lab1_pkg/build/lib/lab1_pkg/__init__.py -> /home/pujit/lab1_ws/install/lab1_pkg/lib/python3.10/site-packages/lab1_pkg
+[1.893s] copying /home/pujit/lab1_ws/build/lab1_pkg/build/lib/lab1_pkg/talker.py -> /home/pujit/lab1_ws/install/lab1_pkg/lib/python3.10/site-packages/lab1_pkg
+[1.893s] copying /home/pujit/lab1_ws/build/lab1_pkg/build/lib/lab1_pkg/safety_node.py -> /home/pujit/lab1_ws/install/lab1_pkg/lib/python3.10/site-packages/lab1_pkg
+[1.894s] byte-compiling /home/pujit/lab1_ws/install/lab1_pkg/lib/python3.10/site-packages/lab1_pkg/relay.py to relay.cpython-310.pyc
+[1.895s] byte-compiling /home/pujit/lab1_ws/install/lab1_pkg/lib/python3.10/site-packages/lab1_pkg/__init__.py to __init__.cpython-310.pyc
+[1.896s] byte-compiling /home/pujit/lab1_ws/install/lab1_pkg/lib/python3.10/site-packages/lab1_pkg/talker.py to talker.cpython-310.pyc
+[1.897s] byte-compiling /home/pujit/lab1_ws/install/lab1_pkg/lib/python3.10/site-packages/lab1_pkg/safety_node.py to safety_node.cpython-310.pyc
+[1.898s] running install_data
+[1.898s] creating /home/pujit/lab1_ws/install/lab1_pkg/share/ament_index
+[1.898s] creating /home/pujit/lab1_ws/install/lab1_pkg/share/ament_index/resource_index
+[1.899s] creating /home/pujit/lab1_ws/install/lab1_pkg/share/ament_index/resource_index/packages
+[1.899s] copying resource/lab1_pkg -> /home/pujit/lab1_ws/install/lab1_pkg/share/ament_index/resource_index/packages
+[1.899s] copying package.xml -> /home/pujit/lab1_ws/install/lab1_pkg/share/lab1_pkg
+[1.899s] running install_egg_info
+[1.903s] Copying ../../build/lab1_pkg/lab1_pkg.egg-info to /home/pujit/lab1_ws/install/lab1_pkg/lib/python3.10/site-packages/lab1_pkg-0.0.1-py3.10.egg-info
+[1.905s] running install_scripts
+[1.950s] Installing relay script to /home/pujit/lab1_ws/install/lab1_pkg/lib/lab1_pkg
+[1.950s] Installing safety_node script to /home/pujit/lab1_ws/install/lab1_pkg/lib/lab1_pkg
+[1.950s] Installing talker script to /home/pujit/lab1_ws/install/lab1_pkg/lib/lab1_pkg
+[1.951s] writing list of installed files to '/home/pujit/lab1_ws/build/lab1_pkg/install.log'
+[1.992s] Invoked command in '/home/pujit/lab1_ws/src/lab1_pkg' returned '0': PYTHONPATH=/home/pujit/lab1_ws/build/lab1_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pujit/lab1_ws/install/lab1_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/lab1_pkg build --build-base /home/pujit/lab1_ws/build/lab1_pkg/build install --record /home/pujit/lab1_ws/build/lab1_pkg/install.log --single-version-externally-managed install_data

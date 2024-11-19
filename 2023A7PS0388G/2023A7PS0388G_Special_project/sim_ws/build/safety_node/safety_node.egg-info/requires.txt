@@ -1,0 +1,4 @@
+ackermann_msgs
+nav_msgs
+sensor_msgs
+setuptools

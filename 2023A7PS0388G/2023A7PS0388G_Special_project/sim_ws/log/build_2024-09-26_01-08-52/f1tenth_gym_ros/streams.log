@@ -1,0 +1,45 @@
+[0.356s] Invoking command in '/home/ubuntu22/sim_ws/src/f1tenth_gym_ros': PYTHONPATH=/home/ubuntu22/sim_ws/build/f1tenth_gym_ros/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu22/sim_ws/install/f1tenth_gym_ros/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/f1tenth_gym_ros build --build-base /home/ubuntu22/sim_ws/build/f1tenth_gym_ros/build install --record /home/ubuntu22/sim_ws/build/f1tenth_gym_ros/install.log --single-version-externally-managed install_data
+[0.494s] running egg_info
+[0.494s] creating ../../build/f1tenth_gym_ros/f1tenth_gym_ros.egg-info
+[0.494s] writing ../../build/f1tenth_gym_ros/f1tenth_gym_ros.egg-info/PKG-INFO
+[0.495s] writing dependency_links to ../../build/f1tenth_gym_ros/f1tenth_gym_ros.egg-info/dependency_links.txt
+[0.495s] writing entry points to ../../build/f1tenth_gym_ros/f1tenth_gym_ros.egg-info/entry_points.txt
+[0.495s] writing requirements to ../../build/f1tenth_gym_ros/f1tenth_gym_ros.egg-info/requires.txt
+[0.495s] writing top-level names to ../../build/f1tenth_gym_ros/f1tenth_gym_ros.egg-info/top_level.txt
+[0.495s] writing manifest file '../../build/f1tenth_gym_ros/f1tenth_gym_ros.egg-info/SOURCES.txt'
+[0.496s] reading manifest file '../../build/f1tenth_gym_ros/f1tenth_gym_ros.egg-info/SOURCES.txt'
+[0.496s] adding license file 'LICENSE'
+[0.496s] writing manifest file '../../build/f1tenth_gym_ros/f1tenth_gym_ros.egg-info/SOURCES.txt'
+[0.496s] running build
+[0.496s] running build_py
+[0.496s] creating /home/ubuntu22/sim_ws/build/f1tenth_gym_ros/build
+[0.496s] creating /home/ubuntu22/sim_ws/build/f1tenth_gym_ros/build/lib
+[0.496s] creating /home/ubuntu22/sim_ws/build/f1tenth_gym_ros/build/lib/f1tenth_gym_ros
+[0.496s] copying f1tenth_gym_ros/__init__.py -> /home/ubuntu22/sim_ws/build/f1tenth_gym_ros/build/lib/f1tenth_gym_ros
+[0.496s] copying f1tenth_gym_ros/gym_bridge.py -> /home/ubuntu22/sim_ws/build/f1tenth_gym_ros/build/lib/f1tenth_gym_ros
+[0.496s] running install
+[0.496s] running install_lib
+[0.497s] creating /home/ubuntu22/sim_ws/install/f1tenth_gym_ros/lib/python3.10/site-packages/f1tenth_gym_ros
+[0.497s] copying /home/ubuntu22/sim_ws/build/f1tenth_gym_ros/build/lib/f1tenth_gym_ros/__init__.py -> /home/ubuntu22/sim_ws/install/f1tenth_gym_ros/lib/python3.10/site-packages/f1tenth_gym_ros
+[0.497s] copying /home/ubuntu22/sim_ws/build/f1tenth_gym_ros/build/lib/f1tenth_gym_ros/gym_bridge.py -> /home/ubuntu22/sim_ws/install/f1tenth_gym_ros/lib/python3.10/site-packages/f1tenth_gym_ros
+[0.497s] byte-compiling /home/ubuntu22/sim_ws/install/f1tenth_gym_ros/lib/python3.10/site-packages/f1tenth_gym_ros/__init__.py to __init__.cpython-310.pyc
+[0.497s] byte-compiling /home/ubuntu22/sim_ws/install/f1tenth_gym_ros/lib/python3.10/site-packages/f1tenth_gym_ros/gym_bridge.py to gym_bridge.cpython-310.pyc
+[0.499s] running install_data
+[0.499s] creating /home/ubuntu22/sim_ws/install/f1tenth_gym_ros/share/ament_index
+[0.499s] creating /home/ubuntu22/sim_ws/install/f1tenth_gym_ros/share/ament_index/resource_index
+[0.499s] creating /home/ubuntu22/sim_ws/install/f1tenth_gym_ros/share/ament_index/resource_index/packages
+[0.499s] copying resource/f1tenth_gym_ros -> /home/ubuntu22/sim_ws/install/f1tenth_gym_ros/share/ament_index/resource_index/packages
+[0.499s] copying package.xml -> /home/ubuntu22/sim_ws/install/f1tenth_gym_ros/share/f1tenth_gym_ros
+[0.499s] creating /home/ubuntu22/sim_ws/install/f1tenth_gym_ros/share/f1tenth_gym_ros/launch
+[0.499s] copying launch/gym_bridge_launch.py -> /home/ubuntu22/sim_ws/install/f1tenth_gym_ros/share/f1tenth_gym_ros/launch
+[0.500s] copying launch/ego_racecar.xacro -> /home/ubuntu22/sim_ws/install/f1tenth_gym_ros/share/f1tenth_gym_ros/launch
+[0.500s] copying launch/opp_racecar.xacro -> /home/ubuntu22/sim_ws/install/f1tenth_gym_ros/share/f1tenth_gym_ros/launch
+[0.500s] copying launch/gym_bridge.rviz -> /home/ubuntu22/sim_ws/install/f1tenth_gym_ros/share/f1tenth_gym_ros/launch
+[0.500s] creating /home/ubuntu22/sim_ws/install/f1tenth_gym_ros/share/f1tenth_gym_ros/config
+[0.500s] copying config/sim.yaml -> /home/ubuntu22/sim_ws/install/f1tenth_gym_ros/share/f1tenth_gym_ros/config
+[0.500s] running install_egg_info
+[0.501s] Copying ../../build/f1tenth_gym_ros/f1tenth_gym_ros.egg-info to /home/ubuntu22/sim_ws/install/f1tenth_gym_ros/lib/python3.10/site-packages/f1tenth_gym_ros-0.0.0-py3.10.egg-info
+[0.501s] running install_scripts
+[0.514s] Installing gym_bridge script to /home/ubuntu22/sim_ws/install/f1tenth_gym_ros/lib/f1tenth_gym_ros
+[0.514s] writing list of installed files to '/home/ubuntu22/sim_ws/build/f1tenth_gym_ros/install.log'
+[0.526s] Invoked command in '/home/ubuntu22/sim_ws/src/f1tenth_gym_ros' returned '0': PYTHONPATH=/home/ubuntu22/sim_ws/build/f1tenth_gym_ros/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu22/sim_ws/install/f1tenth_gym_ros/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/f1tenth_gym_ros build --build-base /home/ubuntu22/sim_ws/build/f1tenth_gym_ros/build install --record /home/ubuntu22/sim_ws/build/f1tenth_gym_ros/install.log --single-version-externally-managed install_data

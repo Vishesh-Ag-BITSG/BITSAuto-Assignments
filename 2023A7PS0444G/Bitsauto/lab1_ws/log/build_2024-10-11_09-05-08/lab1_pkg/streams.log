@@ -1,0 +1,24 @@
+[0.009s] Invoking command in '/home/keshav/lab1_ws/build/lab1_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy:/home/keshav/sim_ws/install/f1tenth_gym_ros /usr/bin/cmake --build /home/keshav/lab1_ws/build/lab1_pkg -- -j16 -l16
+[0.037s] Invoked command in '/home/keshav/lab1_ws/build/lab1_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy:/home/keshav/sim_ws/install/f1tenth_gym_ros /usr/bin/cmake --build /home/keshav/lab1_ws/build/lab1_pkg -- -j16 -l16
+[0.060s] Invoking command in '/home/keshav/lab1_ws/build/lab1_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy:/home/keshav/sim_ws/install/f1tenth_gym_ros /usr/bin/cmake --install /home/keshav/lab1_ws/build/lab1_pkg
+[0.065s] -- Install configuration: ""
+[0.065s] -- Up-to-date: /home/keshav/lab1_ws/install/lab1_pkg/share/lab1_pkg//launch
+[0.066s] -- Installing: /home/keshav/lab1_ws/install/lab1_pkg/share/lab1_pkg//launch/lab1_launch.py
+[0.066s] -- Up-to-date: /home/keshav/lab1_ws/install/lab1_pkg/lib/lab1_pkg/talker.py
+[0.066s] -- Up-to-date: /home/keshav/lab1_ws/install/lab1_pkg/lib/lab1_pkg/relay.py
+[0.066s] -- Up-to-date: /home/keshav/lab1_ws/install/lab1_pkg/share/ament_index/resource_index/package_run_dependencies/lab1_pkg
+[0.066s] -- Up-to-date: /home/keshav/lab1_ws/install/lab1_pkg/share/ament_index/resource_index/parent_prefix_path/lab1_pkg
+[0.066s] -- Up-to-date: /home/keshav/lab1_ws/install/lab1_pkg/share/lab1_pkg/environment/ament_prefix_path.sh
+[0.066s] -- Up-to-date: /home/keshav/lab1_ws/install/lab1_pkg/share/lab1_pkg/environment/ament_prefix_path.dsv
+[0.066s] -- Up-to-date: /home/keshav/lab1_ws/install/lab1_pkg/share/lab1_pkg/environment/path.sh
+[0.066s] -- Up-to-date: /home/keshav/lab1_ws/install/lab1_pkg/share/lab1_pkg/environment/path.dsv
+[0.066s] -- Up-to-date: /home/keshav/lab1_ws/install/lab1_pkg/share/lab1_pkg/local_setup.bash
+[0.066s] -- Up-to-date: /home/keshav/lab1_ws/install/lab1_pkg/share/lab1_pkg/local_setup.sh
+[0.066s] -- Up-to-date: /home/keshav/lab1_ws/install/lab1_pkg/share/lab1_pkg/local_setup.zsh
+[0.066s] -- Up-to-date: /home/keshav/lab1_ws/install/lab1_pkg/share/lab1_pkg/local_setup.dsv
+[0.066s] -- Up-to-date: /home/keshav/lab1_ws/install/lab1_pkg/share/lab1_pkg/package.dsv
+[0.066s] -- Up-to-date: /home/keshav/lab1_ws/install/lab1_pkg/share/ament_index/resource_index/packages/lab1_pkg
+[0.066s] -- Up-to-date: /home/keshav/lab1_ws/install/lab1_pkg/share/lab1_pkg/cmake/lab1_pkgConfig.cmake
+[0.066s] -- Up-to-date: /home/keshav/lab1_ws/install/lab1_pkg/share/lab1_pkg/cmake/lab1_pkgConfig-version.cmake
+[0.066s] -- Up-to-date: /home/keshav/lab1_ws/install/lab1_pkg/share/lab1_pkg/package.xml
+[0.068s] Invoked command in '/home/keshav/lab1_ws/build/lab1_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy:/home/keshav/sim_ws/install/f1tenth_gym_ros /usr/bin/cmake --install /home/keshav/lab1_ws/build/lab1_pkg

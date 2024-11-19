@@ -1,0 +1,10 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/opt/ros/foxy/lib/python3.8/site-packages",
+        "/home/keshav/sim_ws/install/f1tenth_gym_ros/lib/python3.8/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/opt/ros/foxy/lib/python3.8/site-packages",
+        "/home/keshav/sim_ws/install/f1tenth_gym_ros/lib/python3.8/site-packages"
+    ]
+}

@@ -1,0 +1,22 @@
+[0.322s] Invoking command in '/home/khushi/ros2_ws/src/lab1_pkg': PYTHONPATH=/home/khushi/ros2_ws/build/lab1_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/khushi/ros2_ws/install/lab1_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/lab1_pkg build --build-base /home/khushi/ros2_ws/build/lab1_pkg/build install --record /home/khushi/ros2_ws/build/lab1_pkg/install.log --single-version-externally-managed install_data
+[0.439s] running egg_info
+[0.439s] writing ../../build/lab1_pkg/lab1_pkg.egg-info/PKG-INFO
+[0.439s] writing dependency_links to ../../build/lab1_pkg/lab1_pkg.egg-info/dependency_links.txt
+[0.439s] writing entry points to ../../build/lab1_pkg/lab1_pkg.egg-info/entry_points.txt
+[0.439s] writing requirements to ../../build/lab1_pkg/lab1_pkg.egg-info/requires.txt
+[0.439s] writing top-level names to ../../build/lab1_pkg/lab1_pkg.egg-info/top_level.txt
+[0.440s] reading manifest file '../../build/lab1_pkg/lab1_pkg.egg-info/SOURCES.txt'
+[0.441s] writing manifest file '../../build/lab1_pkg/lab1_pkg.egg-info/SOURCES.txt'
+[0.441s] running build
+[0.441s] running build_py
+[0.441s] running install
+[0.441s] running install_lib
+[0.442s] running install_data
+[0.442s] running install_egg_info
+[0.443s] removing '/home/khushi/ros2_ws/install/lab1_pkg/lib/python3.10/site-packages/lab1_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[0.443s] Copying ../../build/lab1_pkg/lab1_pkg.egg-info to /home/khushi/ros2_ws/install/lab1_pkg/lib/python3.10/site-packages/lab1_pkg-0.0.0-py3.10.egg-info
+[0.444s] running install_scripts
+[0.453s] Installing relay script to /home/khushi/ros2_ws/install/lab1_pkg/bin
+[0.453s] Installing talker script to /home/khushi/ros2_ws/install/lab1_pkg/bin
+[0.454s] writing list of installed files to '/home/khushi/ros2_ws/build/lab1_pkg/install.log'
+[0.467s] Invoked command in '/home/khushi/ros2_ws/src/lab1_pkg' returned '0': PYTHONPATH=/home/khushi/ros2_ws/build/lab1_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/khushi/ros2_ws/install/lab1_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/lab1_pkg build --build-base /home/khushi/ros2_ws/build/lab1_pkg/build install --record /home/khushi/ros2_ws/build/lab1_pkg/install.log --single-version-externally-managed install_data
